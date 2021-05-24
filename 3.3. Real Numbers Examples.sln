@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doubleExample", "doubleExample\doubleExample.csproj", "{D69CAE18-0445-4E56-A662-7986BC5B4A29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integersRealNumbers", "integersRealNumbers\integersRealNumbers.csproj", "{96D4C7AF-0517-4499-99FA-C4B46036C8FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integersRealNumbersExample", "integersRealNumbers\integersRealNumbersExample.csproj", "{96D4C7AF-0517-4499-99FA-C4B46036C8FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
